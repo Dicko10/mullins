@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: rgb(3, 3, 122);
+    min-height: 100vh;
+    color: white;
+
+}
+
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   padding-top: 15px;
+}
+
+.logo {
+    justify-content: center;
+    text-align: center;
+    padding: 5px 3px;
+}
+
+h1 {
+    padding: 10px 10px;
+}
+
+.contain {
+    padding-top: 15px;
+    padding-left: 20px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-transform: capitalize;
+    color: green;
+}
+
+h3 {
+    text-transform: capitalize;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
